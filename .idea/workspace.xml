@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f371890-4f8b-479f-b8a3-f2a051d92428" name="Default Changelist" comment="" />
+    <list default="true" id="0f371890-4f8b-479f-b8a3-f2a051d92428" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615625432126</updated>
       <workItem from="1615625445153" duration="23529000" />
-      <workItem from="1615707292915" duration="17280000" />
+      <workItem from="1615707292915" duration="17813000" />
     </task>
     <servers />
   </component>
@@ -73,6 +76,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1615749008241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1615749008241" />
+    <state x="544" y="257" key="Github.ShareDialog" timestamp="1615748983220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="544" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1615748983220" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1615749100650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615749100650" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615748722013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
